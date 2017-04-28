@@ -11,16 +11,16 @@ Para desenvolver o app você vai precisar usar o endpoint do Twitch https://gith
 # Requisitos Essenciais
 
 * Usar Swift.
-* iOS 8+
+* iOS 9+
 * Auto Layout e Story Board.
+* App Universal
+* CoreData
+* Pull to refresh
+* Tratar offline
 
 # Bonus
 
 * Usar CocoaPods ou Carthage
-* CoreData
-* App Universal
-* Pull to refresh
-* Tratar offline
 * Testes unitários
 
 # Enviando o seu teste  
