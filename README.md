@@ -1,8 +1,8 @@
 # Desafio
 
-Nós do time de mobile da vivareal gostamos de jogar vídeo games. Queriamos saber quais são o top 50 games no Twitch.
+Nós do time de mobile do VivaReal gostamos de jogar videogames. Gostaríamos de saber quais são o top 50 games no Twitch. 🤓
 
-O objetivo do teste é fazer uma lista com o cartaz e o nome do game, e uma tela de detalhes com o nome do game, contador de canais e visualizações.
+O objetivo do teste é fazer uma lista com a imagem e o nome do jogo e uma tela de detalhes com a imagem, nome do jogo, contador de canais e quantidade de visualizações.
 
 # API
 
@@ -10,22 +10,22 @@ Para desenvolver o app você vai precisar usar o endpoint do Twitch https://gith
 
 # Requisitos Essenciais
 
-* Usar Swift.
-* iOS 9+
-* Auto Layout e Story Board.
-* App Universal
-* CoreData
+* Usar Swift 3 e iOS 9+.
+* Interface desenvolvida no Storyboard, utilizando Auto Layout.
+* App Universal: Você deve desenvolver uma interface que se adapte bem em telas maiores.
+* CoreData: Salve as informações dos jogos para que os usuários consigam acessar offline.
+* Tratamento de falha de conexão: Avise o usuário quando o download dos jogos falhar por falta de conexão
 * Pull to refresh
-* Tratar offline
 
-# Bonus
+# Bônus
 
-* Usar CocoaPods ou Carthage
 * Testes unitários
+
+# Observações
+
+* Você pode utilizar bibliotecas de terceiros e gerenciadores de dependências (CocoaPods, Carthage, etc) como preferir.
 
 # Enviando o seu teste  
 
-* Opção 1 - Pode criar o seu próprio repositório e nos enviar o link. Se seu repositório for privado, adiciona o(s) usuário(s) do time de mobile da vivareal com permissão de leitura para podermos olhar o seu código.
-
-* Opção 2 - Você pode fazer um _pull request_ no nosso [repositório __público__] ou um fork e fazer o teste na sua conta.
+Crie o seu próprio repositório e nos envie o link. Se seu repositório for privado, adicione o(s) usuário(s) do time de mobile do VivaReal com permissão de leitura para podermos ver seu código.
 
