@@ -12,6 +12,7 @@ Para desenvolver o app você vai precisar usar o endpoint do Twitch https://gith
 
 * Usar Swift 3 e iOS 9+.
 * Interface desenvolvida no Storyboard, utilizando Auto Layout.
+* Usar UICollectionView com no minimo 2 colunas para representar a lista dos jogos.
 * App Universal: Você deve desenvolver uma interface que se adapte bem em telas maiores.
 * CoreData: Salve as informações dos jogos para que os usuários consigam acessar offline.
 * Tratamento de falha de conexão: Avise o usuário quando o download dos jogos falhar por falta de conexão
@@ -24,6 +25,7 @@ Para desenvolver o app você vai precisar usar o endpoint do Twitch https://gith
 # Observações
 
 * Você pode utilizar bibliotecas de terceiros e gerenciadores de dependências (CocoaPods, Carthage, etc) como preferir.
+* A falta de algum requisito essencial é eliminatória.
 
 # Enviando o seu teste  
 
