@@ -10,6 +10,9 @@ Para desenvolver o app você vai precisar usar o endpoint do Twitch https://gith
 
 # Requisitos Essenciais
 
+A falta de requisito essencial é eliminatória.
+
+* Usar CollectionView com no minimo 2 colunas para representar a lista dos jogos.
 * Usar Swift 3 e iOS 9+.
 * Interface desenvolvida no Storyboard, utilizando Auto Layout.
 * App Universal: Você deve desenvolver uma interface que se adapte bem em telas maiores.
