@@ -19,6 +19,8 @@ Para desenvolver o app você vai precisar usar o endpoint de Top Games do Twitch
 * Pull to refresh.
 * O teste não pode apresentar crashes.
 
+**A falta de algum requisito essencial é eliminatória.**
+
 # Bônus
 
 * Testes unitários
@@ -26,7 +28,6 @@ Para desenvolver o app você vai precisar usar o endpoint de Top Games do Twitch
 # Observações
 
 * Você pode utilizar bibliotecas de terceiros e gerenciadores de dependências (CocoaPods, Carthage, etc) como preferir.
-* **A falta de algum requisito essencial é eliminatória.**
 
 # Enviando o seu teste  
 
