@@ -1,6 +1,6 @@
 # Desafio
 
-Nós do time de mobile do VivaReal gostamos de jogar videogames. Gostaríamos de saber quais são o top 50 games no Twitch. 🤓
+Nós do time de mobile do VivaReal gostamos de jogar videogames. Gostaríamos de saber quais são os **Top 50 games no Twitch**. 🤓
 
 O objetivo do teste é fazer uma lista com a imagem e o nome do jogo e uma tela de detalhes com a imagem, nome do jogo, contador de canais e quantidade de visualizações.
 
