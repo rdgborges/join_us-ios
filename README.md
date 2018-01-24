@@ -1,6 +1,6 @@
 # Desafio
 
-Nós do time de mobile do VivaReal gostamos de jogar videogames. Gostaríamos de saber quais são os **Top Games no Twitch**. 🤓🎮
+Nós do time de mobile do Grupo Zap VivaReal gostamos de jogar videogames. Gostaríamos de saber quais são os **Top Games no Twitch**. 🤓🎮
 
 O objetivo do teste é implementar um app onde podemos ver os jogos com mais visualizações no Twitch. O app deve mostrar uma lista de jogos e ser possível navegar para os detalhes de cada jogo. Além disso, tanto na lista quanto na tela de detalhes, deve ser possível favoritar o jogo. Os jogos favoritados devem ser persistidos no device para que possam ser acessados offline e serem mostrados em uma aba própria.
 
@@ -64,4 +64,4 @@ Se você pensou em alguma *killer feature* que acabamos deixando de fora do noss
 
 ## Enviando o seu teste  
 
-Crie o seu próprio repositório e nos envie o link. Se seu repositório for privado, adicione o(s) usuário(s) do time de mobile do VivaReal com permissão de leitura para podermos ver seu código.
+Crie o seu próprio repositório e nos envie o link. Se seu repositório for privado, adicione o(s) usuário(s) do time de mobile do Grupo Zap VivaReal com permissão de leitura para podermos ver seu código.
