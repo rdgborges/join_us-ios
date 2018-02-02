@@ -61,7 +61,3 @@ Se você pensou em alguma *killer feature* que acabamos deixando de fora do noss
 ## Observações
 
 * Você pode utilizar bibliotecas de terceiros e gerenciadores de dependências (CocoaPods, Carthage, etc) como preferir.
-
-## Enviando o seu teste  
-
-Crie o seu próprio repositório e nos envie o link. Se seu repositório for privado, adicione o(s) usuário(s) do time de mobile do Grupo Zap VivaReal com permissão de leitura para podermos ver seu código.
