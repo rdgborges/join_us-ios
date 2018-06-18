@@ -1,4 +1,4 @@
-# Desafio - Desenvolvedor iOS SENIOR
+# Desafio - Desenvolvedor iOS
 
 Nós do time de iOS da Farfetch Brasil gostamos de jogar videogames. O objetivo do teste é implementar um app onde podemos ver os **jogos com mais visualizações no Twitch**. 🤓🎮
 
