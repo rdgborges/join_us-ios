@@ -45,8 +45,6 @@ Se você pensou em alguma *killer feature* que acabamos deixando de fora do noss
 * Persistir os favoritos salvos para que possamos acessá-los offline.
 * **O teste não pode apresentar crashes.**
 
-**A falta de algum requisito essencial é eliminatória.**
-
 ## Observações
 
 * Você pode utilizar bibliotecas de terceiros e gerenciadores de dependências (CocoaPods, Carthage, etc) como preferir.
