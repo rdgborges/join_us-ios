@@ -6,9 +6,7 @@ Nós do time de iOS da Farfetch Brasil gostamos de jogar videogames. O objetivo 
 
 Para desenvolver o app você vai precisar usar o endpoint de Top Games do Twitch. Mais informações: https://dev.twitch.tv/docs/api/reference/#get-top-games.
 
-Para esse endpoint, use o Client-ID:
-
-**xzqsdxt247xi72kder6l57r0aksbsh**
+Para esse endpoint, use o Client-ID: **xzqsdxt247xi72kder6l57r0aksbsh**
 
 ## Interface
 
